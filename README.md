@@ -4,7 +4,7 @@ Este proyecto consiste en las mejores de mi primera web subida con anterioridad
 
 Fue desarrollado con HTML y CSS .
 
-[Proyecto en linea]()
+[Proyecto en linea](https://segundawebeli.netlify.app/)
 
 - Capturas de pantalla
 
