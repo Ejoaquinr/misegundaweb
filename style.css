@@ -1,0 +1,63 @@
+/*
+
+Esta es una hoja de estilos, aquí tenemos que poner reglas.
+
+Reglas que modifican mis cajitas (elementos de html)
+
+    regla => propiedad: valor;
+
+En CSS necesitamos asignarle la regla a alguien.
+
+elementoSeleccionado {
+    propiedad: valor;
+    propiedad2: valor2;
+    propiedad3: valor3;
+}
+
+*/
+
+
+body {
+    background-color:white;
+}
+
+/* 
+SELECTORES
+
+Existen 3 maneras de seleccionar elementos:
+
+nombredeetiqueta
+
+clase
+
+id
+
+
+*/
+
+h1 {
+    background-color: chartreuse;
+}
+
+#subtitulo{
+    font-size: 34px;
+}
+
+.rojo {
+    color: red;
+}
+
+.fondo-azul-claro{
+    background-color: aqua;
+
+    /*Selector etquieta*/
+
+    img {
+        height: 200px;
+    }
+
+    /*Selector clase*/
+    .mafiero{
+        border: 30px solid pink;
+    }
+}
